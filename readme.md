@@ -5,7 +5,7 @@ This project implements a deep learning model to detect and correct misspelled B
 ## Project Overview
 
 **Objective:**
-- Automatically detect and correct misspelled Banglish text (e.g., `valobasi` → `bhalobashi`).
+- Automatically detect and correct misspelled Banglish text (e.g., `tomaka` → `tomake`).
 
 **Model:**
 - Fine-tuned `facebook/mbart-large-50-many-to-many-mmt` for sequence-to-sequence correction.
