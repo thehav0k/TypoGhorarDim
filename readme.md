@@ -140,4 +140,7 @@ Any modification to `datasets.json` will be reviewed and accepted via PR.
 
 ## License
 
-MIT License. See LICENSE for details.
+Code and model: MIT License  
+Dataset: CC BY 4.0 License  
+
+See [LICENSE](./LICENSE) for details.
