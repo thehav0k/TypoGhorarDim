@@ -1,0 +1,1888 @@
+[
+  {
+    "prompt": "Ame",
+    "result": "Ami",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kala",
+    "result": "khela",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "khala",
+    "result": "khela",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "khela",
+    "result": "khela",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Kemon",
+    "result": "Kemon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Kaman",
+    "result": "Kemon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Moga",
+    "result": "Moja",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Moja",
+    "result": "Moja",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Hagar",
+    "result": "Hajar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Hajar",
+    "result": "Hajar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Tako",
+    "result": "Thako",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Thako",
+    "result": "Thako",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Gebon",
+    "result": "Jibon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Jibon",
+    "result": "Jibon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": [
+      "Korta",
+      "Korte"
+    ],
+    "result": "Korte",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": [
+      "Amaka",
+      "Amake"
+    ],
+    "result": "Amake",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tume",
+    "result": "tumi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "she",
+    "result": "se",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sey",
+    "result": "se",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ata",
+    "result": "eta",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "etta",
+    "result": "eta",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "amra",
+    "result": "amra",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tomraah",
+    "result": "tomra",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "taraa",
+    "result": "tara",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kee",
+    "result": "ki",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kay",
+    "result": "ke",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kotai",
+    "result": "kothay",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kothai",
+    "result": "kothay",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kothay",
+    "result": "kothay",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kibabe",
+    "result": "kibhabe",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kibabe",
+    "result": "kivabe",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ka bolsa",
+    "result": "ke bolche",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kuno",
+    "result": "kono",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kokon",
+    "result": "kokhon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tarpar",
+    "result": "tarpor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "trpr",
+    "result": "tarpor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "jode",
+    "result": "jodi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "soto",
+    "result": "choto",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kinto",
+    "result": "kintu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "karun",
+    "result": "karon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "aso",
+    "result": "acho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "aco",
+    "result": "acho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "asen",
+    "result": "achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "acen",
+    "result": "achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "asan",
+    "result": "achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "asis",
+    "result": "achis",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "acis",
+    "result": "achis",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "asos",
+    "result": "achos",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "acos",
+    "result": "achos",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "gum",
+    "result": "ghum",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "gom",
+    "result": "ghum",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "toka",
+    "result": "toke",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "toi",
+    "result": "tui",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Apne kaman asan",
+    "result": "Apni kemon achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "apni kamon acen",
+    "result": "Apni kemon achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tume kaman aso",
+    "result": "tumi kemon acho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame valo achi",
+    "result": "ami bhalo achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame valo achi",
+    "result": "ami valo achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "donobad",
+    "result": "dhonnobad",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "apnake donobad",
+    "result": "apnake dhonnobad",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tomake donobad",
+    "result": "tomake dhonnobad",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "toke donobad",
+    "result": "toke dhonnobad",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "dukkhito",
+    "result": "dukhkhito",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "haa",
+    "result": "hae",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tome ke baat kaba",
+    "result": "tumi ki bhaat khaba",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "subho ratri",
+    "result": "shuvo ratri",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "suvo ratri",
+    "result": "shuvo ratri",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "subho ratri",
+    "result": "shubho ratri",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "suvo ratri",
+    "result": "shubho ratri",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "apner nam kee",
+    "result": "apnar name ki",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "amer nam Asif",
+    "result": "amar name Asif",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "apni kotha theke assen",
+    "result": "apni kothay theke aschen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "gebon ta bedonar",
+    "result": "jibon ta bedonar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "jebon ta bedonar",
+    "result": "jibon ta bedonar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ak",
+    "result": "ek",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "akta",
+    "result": "ekta",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "akdin",
+    "result": "ekdin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "akbar",
+    "result": "ekbar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doi",
+    "result": "dui",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doita",
+    "result": "duita",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "teen",
+    "result": "tin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sar",
+    "result": "char",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sardin",
+    "result": "chardin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "soy",
+    "result": "choy",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "soydin",
+    "result": "choydin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "soybar",
+    "result": "choybar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sat",
+    "result": "shat",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "satdin",
+    "result": "shatdin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "satbar",
+    "result": "shatdin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "at",
+    "result": "aat",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "noi",
+    "result": "noy",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "noidin",
+    "result": "noydin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "noibar",
+    "result": "noybar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "dos",
+    "result": "dosh",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "dosdin",
+    "result": "doshdin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "dosbar",
+    "result": "doshbar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Sombar",
+    "result": "Shombar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Mongolbar",
+    "result": "Mangalbar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Budvar",
+    "result": "Budhbar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Brihaspatibar",
+    "result": "Brihospotibar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Bissudbar",
+    "result": "Brihospotibar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Shukrovar",
+    "result": "Shukrobar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Sukurbar",
+    "result": "Shukrobar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Sukrobar",
+    "result": "Shukrobar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Shonivar",
+    "result": "Shonibar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sonibar",
+    "result": "Shonibar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Robivar",
+    "result": "Robibar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Baishakh",
+    "result": "Boishakh",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Joishtha",
+    "result": "Joishtho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Asar",
+    "result": "Ashar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Srabon",
+    "result": "Shrabon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Bhadra",
+    "result": "Bhadro",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Aswin",
+    "result": "Ashwin",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Kartick",
+    "result": "Kartik",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doi gonta gumailam",
+    "result": "dui ghonta ghumailam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doi gonta game khellam",
+    "result": "dui ghonta game khellam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tome amer alu",
+    "result": "tumi amar alo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "shopno",
+    "result": "sopno",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "shopno",
+    "result": "swapno",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Falgon",
+    "result": "Falgun",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Chaitra",
+    "result": "Chaitro",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "boy",
+    "result": "boi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame boy pore",
+    "result": "ami boi pori",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Rahim boy pore",
+    "result": "Rahim boi pore",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Einstein boy pore",
+    "result": "Einstein boi poren",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tor email de",
+    "result": "tor email de",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "table",
+    "result": "table",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "paani",
+    "result": "pani",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "pane",
+    "result": "pani",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kabar",
+    "result": "khabar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bare",
+    "result": "bari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame bare ase",
+    "result": "ami bari achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Ame tomaka balobasi",
+    "result": "Ami tomake bhalobashi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Ame tomaka balobasi",
+    "result": "Ami tomake valobashi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ata kee",
+    "result": "eta ki",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Bathroom kotha",
+    "result": "Bathroom kothay",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ata koto",
+    "result": "ata koto",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Ame buji na",
+    "result": "Ami bujhi na",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bondhu",
+    "result": "bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bondo",
+    "result": "bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Rahim amar bondhu",
+    "result": "Rahim amar bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Rahim amar bondo",
+    "result": "Rahim amar bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "balo laga na",
+    "result": "valo lage na",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "balo laga na",
+    "result": "bhalo lage na",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sundar",
+    "result": "shundor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kushi",
+    "result": "khushi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame onak kushi",
+    "result": "ami onek khushi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "dukho",
+    "result": "dukkho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "amer onak dukho",
+    "result": "amar onek dukkho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "maa",
+    "result": "ma",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bapa",
+    "result": "baba",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bai",
+    "result": "bhai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bai",
+    "result": "vai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bone",
+    "result": "bon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "von",
+    "result": "bon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "porebar",
+    "result": "poribar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "amra ke akta porebar na",
+    "result": "amra ki ekta poribar na",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "chaa",
+    "result": "cha",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "laal",
+    "result": "lal",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sobuz",
+    "result": "shobuj",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "neel",
+    "result": "nil",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "holod",
+    "result": "holud",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kaalo",
+    "result": "kalo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "kalu",
+    "result": "kalo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "shadaa",
+    "result": "shada",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sada",
+    "result": "shada",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "cheley",
+    "result": "chele",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "meie",
+    "result": "meye",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "mey",
+    "result": "meye",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sami",
+    "result": "shami",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "stree",
+    "result": "stri",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doktor",
+    "result": "daktar",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "doktor",
+    "result": "doctor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "shikshok",
+    "result": "shikkhok",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ukel",
+    "result": "ukil",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bhaat",
+    "result": "bhat",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame bhaat khay",
+    "result": "ami bhat khai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "say bhaat khai",
+    "result": "se bhat khay",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "mas",
+    "result": "mach",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "mas",
+    "result": "mas",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "mangso",
+    "result": "mangsho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sobji",
+    "result": "shobji",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "fol",
+    "result": "fol",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Ame jachi",
+    "result": "Ami jachhi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Akhane aso",
+    "result": "Ekhane asho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Okhane ja",
+    "result": "Okhane jao",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Koto somoi",
+    "result": "Koto somoy",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "Amer khide peche",
+    "result": "Amar khide peyeche",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ragi",
+    "result": "ragi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bristi",
+    "result": "brishti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bristi",
+    "result": "brishty",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "rood",
+    "result": "rod",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "purba",
+    "result": "purbo",
+    "meta-data": "manual"
+  },
+  {
+    "incorrect": "ame tomaka balobasi",
+    "correct": "ami tomake valobashi",
+    "collection_type": "manual"
+  },
+  {
+    "incorrect": "tome kaman aso",
+    "correct": "tumi kemon acho",
+    "collection_type": "manual"
+  },
+  {
+    "prompt": "ame",
+    "result": "ami",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame tomaka balobase",
+    "result": "ami tomake bhalobashi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame tomaka balobase",
+    "result": "ami tomake bhalobashi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tome kaman aso",
+    "result": "tumi kemon acho?",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tomaka",
+    "result": "tomake",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "aso",
+    "result": "acho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "balo",
+    "result": "valo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "valo",
+    "result": "valo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame valo asi",
+    "result": "ami bhalo achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "santi",
+    "result": "shanti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "santi nai",
+    "result": "shanti nai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "sondor",
+    "result": "sundor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame valo asi",
+    "result": "ami bhalo achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "bhalo",
+    "result": "bhalo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi kothay jachho",
+    "result": "tumi kothay jaccho",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami bhalo asi",
+    "result": "ami bhalo achi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din dekha nai",
+    "result": "onek din dekha hoy nai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi ki khabar",
+    "result": "tumi ki khobor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "apni kemon achen",
+    "result": "apni kemon achen",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek valo laglo",
+    "result": "onek bhalo laglo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar bondhu",
+    "result": "tumi amar bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe jabo",
+    "result": "ami tomar sathe jabo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi ki khabe",
+    "result": "tumi ki khabe",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek boro shohor",
+    "result": "onek boro shohor",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar sathe thako",
+    "result": "tumi amar sathe thako",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno kichu enechi",
+    "result": "ami tomar jonno kichu enechi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar boro bhai",
+    "result": "tumi amar boro bhai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por dekha holo",
+    "result": "onek din por dekha holo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar choto bon",
+    "result": "tumi amar choto bon",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe kotha bolte chai",
+    "result": "ami tomar sathe kotha bolte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomake dekhte pelam",
+    "result": "onek din por tomake dekhte pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye bhalo bondhu",
+    "result": "tumi amar shobcheye bhalo bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno onek kichu korte pari",
+    "result": "ami tomar jonno onek kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar sathe thakle bhalo lage",
+    "result": "tumi amar sathe thakle bhalo lage",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar kotha mone holo",
+    "result": "onek din por tomar kotha mone holo",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar sobceye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar jonno shob kichu korte pari",
+    "result": "ami tomar jonno shob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar sathe kotha bolchi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro shokti",
+    "result": "tumi amar shobcheye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ami tomar sathe thakte chai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onek din por tomar dekha pelam",
+    "result": "onek din por tomar dekha pelam",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tumi amar shobcheye boro bondhu",
+    "result": "tumi amar shobcheye boro bondhu",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame tomer jono shob kisu korte pari",
+    "result": "ami tomar jonno sob kichu korte pari",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "onak din por tomar sate kota bolsi",
+    "result": "onek din por tomar sathe kotha bolchi",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "tomi amar sobseye boro sokti",
+    "result": "tumi amar sobceye boro shokti",
+    "meta-data": "manual"
+  },
+  {
+    "prompt": "ame tomer sate takte cai",
+    "result": "ami tomar sathe thakte chai",
+    "meta-data": "manual"
+  }
+]

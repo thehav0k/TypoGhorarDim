@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.sqlite3
+*.db
+*.env
+.env/
+.venv/
+venv/
+ENV/
+.envrc
+*.pot
+*.mo
+*.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Colab
+/content/drive/
+
+# System
+Thumbs.db
+Desktop.ini
+
+# Test output
+htmlcov/
+
+# Local env files
+*.local
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+# Ignore model and dataset artifacts
+banglish_mbart_model/
+banglish_admin_creds.pkl
+
